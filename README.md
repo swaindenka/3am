@@ -264,7 +264,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 - Open an issue on GitHub
-- Join our Discord server: [Invite Link]
+- Join our Discord server: [[Invite Link](https://discord.gg/N3AHNsCz4c)]
 - Email: swaindenka@proton.me
 
 ---
